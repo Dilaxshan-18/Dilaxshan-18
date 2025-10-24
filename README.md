@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dialaxshan</h1>
+<h1 align="center">Hi 👋, I'm Dilaxshan</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilaxshan-18&label=Profile%20views&color=0e75b6&style=flat" alt="dilaxshan-18" /> </p>
